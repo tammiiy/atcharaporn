@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+/* ใส่ CSS ของคุณเองต่อจากบรรทัดนี้ได้ */
+html {
+  scroll-behavior: smooth;
+}
